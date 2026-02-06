@@ -202,3 +202,39 @@
 .center {
     font-size: 25px;
 }
+
+.new {
+    font-size: 25px;
+    font-weight: 500;
+    margin  : 50px;
+}
+.images {
+    padding: 5
+    0px 300px;
+    position: absolute;
+    /* background-color: red; */
+}
+
+.image {
+    margin-bottom: 300px;
+    display: flex;
+    width: 250px;
+    border: 3px solid red;
+    height: 300px;
+    margin-left: 250px;
+    border-radius: 12px;
+}
+
+.image img {
+    width: 150px;
+    height: 150px;
+}
+
+.like {
+    background-color: yellow
+}
+
+
+
+/* Media  */
+
